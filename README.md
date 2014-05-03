@@ -26,7 +26,7 @@ With the prequisites installed, you can use the designer:
     
     git clone http://github.com/kivy/kivy-designer/
     cd kivy-designer
-    python main.py
+    kivy main.py
 
 
 ![ScreenShot](https://raw.github.com/kivy/kivy-designer/master/kivy_designer.png)
